@@ -1,0 +1,3 @@
+INFO    2021-12-03 08:01:04,796 [main] base.BaseTest  - Test Execution started!!! 
+INFO    2021-12-03 08:01:04,797 [main] base.BaseTest  - Config properties loaded!!! 
+INFO    2021-12-03 08:01:04,798 [main] base.BaseTest  - OR Properties loaded!!!
